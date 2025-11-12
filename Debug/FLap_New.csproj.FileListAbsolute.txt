@@ -1,0 +1,138 @@
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\bin\Debug\FLap_New.exe
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\bin\Debug\FLap_New.pdb
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.AssemblyReference.cache
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.Properties.Resources.resources
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.GenerateResource.cache
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.CoreCompileInputs.cache
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.exe
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.pdb
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.frmIndex.resources
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmInterface.resources
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\bin\Debug\FLap_New.exe.config
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\bin\Debug\MetroFramework.dll
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInMes.resources
+C:\Users\rglmduy\Programm\LaptrinhC#\C#Basic\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.Up2Date
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.exe.config
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.frmIndex.resources
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.Properties.Resources.resources
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInMes.resources
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmInterface.resources
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.exe
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.pdb
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\bin\Debug\FLap_New.exe.config
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\bin\Debug\FLap_New.exe
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\bin\Debug\FLap_New.pdb
+C:\Users\Admin\Documents\Flap Project\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInCics.resources
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\bin\Debug\FLap_New.exe.config
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\bin\Debug\FLap_New.exe
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\bin\Debug\FLap_New.pdb
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.AssemblyReference.cache
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.frmIndex.resources
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.Properties.Resources.resources
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInCics.resources
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInMes.resources
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmInterface.resources
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.GenerateResource.cache
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.CoreCompileInputs.cache
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.exe
+C:\Users\rglmduy\Downloads\FLap_New\FLap_New\obj\Debug\FLap_New.pdb
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\FLap_New.exe.config
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\FLap_New.exe
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\FLap_New.pdb
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.AssemblyReference.cache
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.exe.config
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.frmIndex.resources
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.Properties.Resources.resources
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInCics.resources
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInMes.resources
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmInterface.resources
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.GenerateResource.cache
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.CoreCompileInputs.cache
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.exe
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.pdb
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\EPPlus.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Buffers.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Memory.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\EPPlus.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Buffers.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Memory.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.csproj.Up2Date
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Drawing.Common.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Drawing.Common.pdb
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\System.Drawing.Common.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\Google.Protobuf.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\QRCoder.dll
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\Google.Protobuf.pdb
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\bin\Debug\Google.Protobuf.xml
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.Mes_ChildForm.FormQR.resources
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.Mes_ChildForm.FormQRChildrent.resources
+C:\Users\rglmduy\Downloads\Regent_Flap-main\Regent_Flap-main\FLap_New\FLap_New\obj\Debug\FLap_New.SubForm.frmCuttingRecord.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\FLap_New.exe.config
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\FLap_New.exe
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\FLap_New.pdb
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\QRCoder.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.exe.config
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.SubForm.frmCuttingRecord.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.frmIndex.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.Properties.Resources.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInCics.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.SubForm.frmFabricInMes.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.SubForm.frmInterface.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.SubForm.Mes_ChildForm.FormQR.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.SubForm.Mes_ChildForm.FormQRChildrent.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.csproj.Up2Date
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.exe
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.pdb
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.CCT_SubForm.frmMtm.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.CCT_SubForm.frmRelaxingWebsite.resources
+C:\Users\Admin\Downloads\Regent_Flap-main (1)\Regent_Flap-main\FLap_New\obj\Debug\FLap_New.VAP_SubForm.frmDeliveryPanel.resources
